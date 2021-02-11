@@ -1,0 +1,21 @@
+h1 {
+        text-align: center;
+
+}
+
+.player-score {
+        display: flex;
+        flex-wrap: nowrap;
+}
+
+#player-score {
+        padding-left: 10px;
+}
+.computer-score {
+        display: flex;
+        flex-wrap: nowrap;
+}
+
+#computer-score {
+        padding-left: 10px;
+}
