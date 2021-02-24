@@ -47,3 +47,27 @@ h1 {
         padding-left: 30px;
         padding-top: 10px;
 }
+
+button {
+    font-size: 18px;
+    jop: 50%;
+    left: 50%;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    cursor: default;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+button:hover {
+        background-color: orange; 
+        color: white;
+}
+
+#choose-weapon {
+        font-size: 30px;
+}
+
